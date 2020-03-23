@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Symptoms">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+        android:layout_width="match_parent"
+        android:src="@drawable/s1"
+        android:layout_height="match_parent"
+        android:id="@+id/s1Id"
+        android:scaleType="fitXY"/>
+
+        <ImageView
+            android:visibility="gone"
+            android:src="@drawable/s2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/s2Id"
+            android:scaleType="fitXY"/>
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Prevention"
+            android:id="@+id/buttonId"
+            android:layout_below="@+id/s2Id"
+            style="@style/Widget.AppCompat.Button.Colored"
+
+
+
+            />
+
+
+    </LinearLayout>
+
+    </FrameLayout>

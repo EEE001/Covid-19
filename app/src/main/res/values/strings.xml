@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Covid-19</string>
+    <string name="Covid19_button">Covid-19</string>
+    <string name="Symptoms_button">Symptoms</string>
+    <string name="Prevention_button">prevention</string>
+
+
+    <string name="covid19_text">
+
+
+        Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The disease was first identified in 2019 in Wuhan,
+Central China, and has since spread globally, resulting in the 2019–20 coronavirus pandemic.As of 20 March 2020, the rate of deaths per number of diagnosed cases is 4.1%; however, it
+ranges from 0.2% to 15% depending on age and other health problems.As of 20 March 2020, the rate of deaths per number of diagnosed cases is 4.1%; however, it ranges from 0.2% to 15%
+depending on age and other health problems.The virus is typically spread from one person to another via respiratory droplets produced during coughing.Time from exposure to onset of
+symptoms is generally between two and 14 days, with an average of five days. The standard method of diagnosis is by reverse transcription polymerase chain reaction (rRT-PCR) from a
+nasopharyngeal swab.The infection can also be diagnosed from a combination of symptoms, risk factors and a chest CT scan showing features of pneumonia.here is no vaccine or specific
+antiviral treatment for COVID-19. Management involves treatment of symptoms, supportive care, isolation, and experimental measures.The World Health Organization (WHO) declared the
+2019–20 coronavirus outbreak a pandemic and a Public Health Emergency of International Concern (PHEIC). Evidence of local transmission of the disease has been found in many countries
+across all six WHO regions.
+
+    </string>
+
+    <string name="prevention_text">
+
+        Prevention
+
+    </string>
+
+
+</resources>
